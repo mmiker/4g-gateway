@@ -1,0 +1,12 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.log
+*.out
+.DS_Store
+4g-gateway
+vendor/
+mqttStore/
