@@ -212,8 +212,8 @@ EXIT:
 
 func main() {
 	app := cli.NewApp()
-	app.Name = "sws gateway"
-	app.Usage = "This is a SWS gateway."
+	app.Name = "4g gateway"
+	app.Usage = "This is a 4g gateway."
 	app.Commands = []*cli.Command{
 		{
 			Name:  "config",
